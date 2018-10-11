@@ -18,3 +18,5 @@ echo $MovieYear;
 echo "<br>";
 echo "Note: ";
 echo $MovieNote;
+
+echo $MovieNote;
